@@ -1,6 +1,6 @@
 {
   "name": "i11e-utils",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "i11e utils",
   "main": "lib/index.js",
   "scripts": {
